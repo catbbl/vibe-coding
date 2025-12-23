@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React IDB Logger",
+  "description": "A robust React application featuring a persistent error logging system using a singleton IndexedDB connection.",
+  "requestFramePermissions": []
+}
